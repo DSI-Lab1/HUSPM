@@ -1,5 +1,5 @@
 # HUSPM
-This repo hosts the codes of papers related to high-utility sequential pattern mining.
+This repo hosts the codes of papers related to high-utility sequential pattern mining (HUSPM).
 
 ## Requirements
 Java programming language.
