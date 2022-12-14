@@ -8,7 +8,7 @@ Java programming language.
 A simple way is to run the java test file.
 
 ## Introduction
-- **TargetUM**: The first work for mining high-utility itemsets, which is based on a TP-tree structure.
+- **HUSP-SP**: A HUSPM algorithm which uses the novel data structures and upper bounds.
 
 ## Citation
 If these articles or codes useful for your project, please refer to
