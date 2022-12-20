@@ -15,7 +15,7 @@ public class HUSP_SP_Test {
     public static void main(String[] args) throws IOException {
         double minUtilityRatio = 0.012;
         String dataset = "SIGN";
-//        String input = "./dataFile/" + dataset + ".txt";
+        String input = "./dataFile/" + dataset + ".txt";
         String input = "F:\\桌面\\exp\\dataFile\\" + dataset + ".txt";
         String output = "huspminer.txt";
 
