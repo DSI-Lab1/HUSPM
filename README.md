@@ -7,6 +7,10 @@ Java programming language.
 ## Running the program
 A simple way is to run the java test file.
 
+## Benchmarks
+- The data format used is the same as the provided dataset files.
+- Additional datasets can be accessed from [SPMF](http://www.philippe-fournier-viger.com/spmf/index.php?link=datasets.php).
+
 ## Introduction
 - **HUSP-SP**: A HUSPM algorithm using the data structure seqPro.
 
@@ -25,4 +29,4 @@ HUSP-SP:
 
 
 ## Notes
-If there are any questions, please contact us.
+If there are any questions, please contact the authors of the corresponding papers.
