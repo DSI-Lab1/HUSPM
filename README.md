@@ -29,4 +29,4 @@ HUSP-SP:
 
 
 ## Notes
-If there are any questions, please contact the authors of the corresponding papers.
+If there are any questions, please contact us.
